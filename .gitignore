@@ -1,0 +1,16 @@
+node_modules/
+collections/
+service.json
+politicas.html
+_IGNORE_BOT
+.env
+package-lock.json
+squarecloud.config
+BOT.data.json
+credentials.json
+
+# managed
+**.data.json
+**.node-persist**
+**_IGNORE_**
+# end managed
